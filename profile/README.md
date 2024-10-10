@@ -1,8 +1,8 @@
-# Welcome to Pdftools
+# Welcome to Pdftools GitHub Organization
 
 ## 📄 Transforming Documents, One PDF at a Time
 
-At **Pdftools**, we specialize in providing advanced tools and services for working with PDF documents. Our mission is to build scalable, efficient, and cost-effective solutions for automating PDF-related workflows.
+At Pdftools, we specialize in providing advanced tools and services for working with PDF documents. Our mission is to build scalable, efficient, and cost-effective solutions for automating PDF-related workflows.
 
 Whether you're a developer looking for easy-to-use SDKs or a business aiming to streamline document management processes, Pdftools has you covered.
 
