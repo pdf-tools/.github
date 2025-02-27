@@ -21,5 +21,4 @@ Follow us on our journey as we continue to push the boundaries of what's possibl
 - **X (formerly Twitter)**: [@pdftoolscom](https://x.com/pdftoolscom)
 - **LinkedIn**: [Pdftools on LinkedIn](https://www.linkedin.com/company/pdf-tools-ag)
 - **Facebook**: [@pdftoolsag](https://www.facebook.com/pdftoolsag)
-- **Discord**: [Our official Discord server](https://discord.gg/JDp6b2c42M)
 - **GitHub Discussions**: Join the conversation in our [Discussions](https://github.com/orgs/pdf-tools/discussions)
