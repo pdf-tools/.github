@@ -14,6 +14,21 @@ that need full control over their document infrastructure.
 - **[Pdftools OCR Service](https://www.pdf-tools.com/docs/ocr-service/)** — Extract searchable text from scanned documents.
 - **[Conversion Service](https://www.pdf-tools.com/docs/conversion-service/)** — Convert, merge, and transform documents at scale.
 
+## 📂 Code example repositories
+
+**Pdftools SDK**
+- [C](https://github.com/pdf-tools/sdk-examples-c)
+- [C#](https://github.com/pdf-tools/sdk-examples-csharp)
+- [Java](https://github.com/pdf-tools/sdk-examples-java)
+- [Python](https://github.com/pdf-tools/sdk-examples-python)
+- [Visual Basic (.NET)](https://github.com/pdf-tools/sdk-examples-vbnet)
+
+**Toolbox add-on**
+- [C](https://github.com/pdf-tools/toolbox-examples-c)
+- [C#](https://github.com/pdf-tools/toolbox-examples-csharp)
+- [Java](https://github.com/pdf-tools/toolbox-examples-java)
+- [Python](https://github.com/pdf-tools/toolbox-examples-python)
+
 ## 🛠️ Use Pdftools to
 
 - **Convert** — Office, images, and other formats to and from PDF. [Pdftools SDK](https://www.pdf-tools.com/docs/pdf-tools-sdk/guides/convert/) · [Conversion Service](https://www.pdf-tools.com/docs/conversion-service/)
