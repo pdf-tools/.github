@@ -13,6 +13,7 @@ that need full control over their document infrastructure.
 - **[PDF Viewer SDK](https://www.pdf-tools.com/docs/pdf-web-viewer/getting-started/)** — Integrate a comprehensive PDF viewer with editing capabilities into web applications.
 - **[Pdftools OCR Service](https://www.pdf-tools.com/docs/ocr-service/)** — Extract searchable text from scanned documents.
 - **[Conversion Service](https://www.pdf-tools.com/docs/conversion-service/)** — Convert, merge, and transform documents at scale.
+- **[AI Smart Redact](https://www.pdf-tools.com/docs/smart-redact/)** — Detect and permanently remove PII from PDFs with AI-powered detection and human-in-the-loop review.
 
 ## 📂 Code example repositories
 
@@ -29,6 +30,9 @@ that need full control over their document infrastructure.
 - [Java](https://github.com/pdf-tools/toolbox-examples-java)
 - [Python](https://github.com/pdf-tools/toolbox-examples-python)
 
+**AI Smart Redact**
+- [Samples](https://github.com/pdf-tools/smart-redact-samples)
+
 ## 🛠️ Use Pdftools to
 
 - **Convert** — Office, images, and other formats to and from PDF. [Pdftools SDK](https://www.pdf-tools.com/docs/pdf-tools-sdk/guides/convert/) · [Conversion Service](https://www.pdf-tools.com/docs/conversion-service/)
@@ -41,6 +45,7 @@ that need full control over their document infrastructure.
 - **Merge and split** — Combine multiple PDFs or split one into many. [Pdftools SDK](https://www.pdf-tools.com/docs/pdf-tools-sdk/guides/assemble/) · [Conversion Service](https://www.pdf-tools.com/docs/conversion-service/workflows/dossier/)
 - **Edit** — Stamps, barcodes, images, form fields, and redaction. [Toolbox add-on](https://www.pdf-tools.com/docs/toolbox-add-on/guides/edit/) · [Conversion Service](https://www.pdf-tools.com/docs/conversion-service/workflows/stamping/)
 - **View** — Embed a PDF viewer with annotations and search into web apps. [PDF Viewer SDK](https://www.pdf-tools.com/docs/pdf-web-viewer/)
+- **Redact PII** — Automatically detect and permanently remove personally identifiable information. [AI Smart Redact](https://www.pdf-tools.com/docs/smart-redact/)
 
 ## 📢 Connect
 
